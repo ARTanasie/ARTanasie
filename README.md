@@ -1,7 +1,12 @@
-## Hi there 👋
+### Welcome to my GitHub Profile!
+
+#### My name is **Anda-Raamona Tanasie** and I am currently a Research and Teaching Assistant at the University of Applied Sciences Wiener Neustadt
+
+I finished my PhD at the Technical university of Vienna in 2018
+
 
 <!--
-**ARTanasie/ARTanasie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AndaLatif/AndaLatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="Fotter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=AndaLatif&style=flat-square&color=blue" alt=""/>
+</div>
