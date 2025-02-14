@@ -1,6 +1,7 @@
 ### Welcome to my GitHub Profile!
 
-My name is **Anda-Raamona Tanasie** and I am currently a Research and Teaching Assistant at the University of Applied Sciences Wiener Neustadt
+My name is **Anda-Raamona Tanasie** 
+I am currently a Research and Teaching Assistant at the University of Applied Sciences Wiener Neustadt
 
 I finished my PhD at the Technical university of Vienna in 2018
 
