@@ -1,9 +1,12 @@
 ### Welcome to my GitHub Profile!
 
 ### My name is **Anda-Raamona Tanasie**
+I am an **AI specialist** at the **Informatics Department of Fachhochschule Wiener Neustadt**, working at the intersection of **Research, Development, and Teaching in Artificial Intelligence and Data Science**.
 
-I am currently an AI specialist at the Informatics department of the Fachhochschule Wiener Neustadt, where my responsibilities span Research, Development and Teaching.
+With a strong academic foundation in **Mathematics, Computer Science, and Bioinformatics**, my expertise spans both classical machine learning—from linear regression and Gaussian methods to deep learning architectures like CNNs and RNNs—and cutting-edge AI technologies, including Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and Fine-Tuning techniques.
 
-With a robust academic foundation in Mathematics, Computer Science and Bioinformatics, I bring expertise in state-of-the-art Data Science and AI technologies, including Large Language Models (LLMs), Agents, RAG and Fine-tuning techniques, while keeping a strong command of classical models, ranging from linear regression to Gaussian Methods and Deep Learning architectures like RNNs and CNNs.
-
-Passionate about education and problem-solving, I am dedicated to bridging the gap between theoretical concepts and practical applications of data science.
+What I Do
+- **Applied AI & Research:** I develop AI-driven solutions with a focus on real-world applications.
+- **Teaching & Mentorship:** I design and lead data science courses for master’s studies.
+- **Bridging Theory & Practice:** Passionate about making AI both rigorous and applicable.
+ 
