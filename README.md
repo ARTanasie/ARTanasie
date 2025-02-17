@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile!
 
-### My name is **Anda-Raamona Tanasie**
+### My name is **Anda-Ramona Tanasie**
 I am an **AI specialist** at the **Informatics Department of Fachhochschule Wiener Neustadt**, working at the intersection of **Research, Development, and Teaching in Artificial Intelligence and Data Science**.
 
 With a strong academic foundation in **Mathematics, Computer Science, and Bioinformatics**, my expertise spans both classical machine learning—from linear regression and Gaussian methods to deep learning architectures like CNNs and RNNs—and cutting-edge AI technologies, including Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and Fine-Tuning techniques.
